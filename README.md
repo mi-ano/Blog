@@ -1,7 +1,7 @@
 # APP NAME
 Personal Blog 
 # AUTHOR
-Galaano Suleiman
+Ryan Miano
 
 # DESCRIPTION
 This is an app that allows users to add or create pitches where one can comment on it.
@@ -36,8 +36,8 @@ This project uses major technologies which are :
 - flask
 
 ## Support and Contacts
- - sgalaano@gmail.com
- - 0796184389
+ - ryanmiano68@gmail.com
+ 
 
 ## License
  MIT License
@@ -48,4 +48,4 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.*
 
-Copyright (c) 2019 Galaano Suleiman
+Copyright (c) 2019 Ryan Miano
