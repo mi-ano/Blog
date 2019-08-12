@@ -30,11 +30,11 @@ class ProdConfig(Config):
     SQLALCHEMY_DATABASE_URI = os.environ.get("DATABASE_URL")
 
 class TestConfig(Config):
-    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://ryan:123@localhost/blog_test'
+    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://ryan:123@localhost/miano'
 
 
 class DevConfig(Config):
-    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://ryan:123@localhost/personalblog'
+    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://ryan:123@localhost/miano'
     DEBUG= True
 
 config_options={
