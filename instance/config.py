@@ -1,6 +1,6 @@
-SECRET_KEY="Galaano1998"
+SECRET_KEY="qwerty"
 
-MAIL_USERNAME="sgalaano@gmail.com"
-MAIL_PASSWORD="galaano"
+MAIL_USERNAME="ryanmiano68@gmail.com"
+MAIL_PASSWORD="32032651"
 
-DATABASE_URL='postgresql+psycopg2://galaano:galaano@localhost/blog'
+DATABASE_URL='postgresql+psycopg2://ryan:123@localhost/personalblog'
