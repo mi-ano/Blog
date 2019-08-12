@@ -52,5 +52,6 @@ def register_admin():
         mail_message("My Blog Admin","email/welcome_admin",user.email,user=user)
 
         return redirect(url_for('auth.login'))
-        title = "New Account"
+    
+    title = "New Account"
     return render_template('auth/register_admin.html',registration_form = form)
