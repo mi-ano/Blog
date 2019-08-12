@@ -15,7 +15,7 @@ class Config:
     MAIL_USE_SSL = True
     MAIL_USERNAME = os.environ.get("MAIL_USERNAME")
     MAIL_PASSWORD = os.environ.get("MAIL_PASSWORD")
-    SENDER_EMAIL='sgalaano@gmail.com'
+    SENDER_EMAIL='ryanmiano68@gmail.com'
 
     #simple mde configurations
     SIMPLEMDE_JS_IIFE = True
