@@ -35,6 +35,9 @@ This project uses major technologies which are :
 - Python3.6
 - flask
 
+## Dependencies
+- pip
+
 ## Support and Contacts
  - ryanmiano68@gmail.com
  
