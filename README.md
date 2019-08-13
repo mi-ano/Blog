@@ -1,5 +1,5 @@
 # APP NAME
-Personal Blog 
+ Blog 
 # AUTHOR
 Ryan Miano
 
